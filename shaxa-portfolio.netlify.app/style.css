@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(red,blue, green, yellow ) ;
+    background-repeat: no-repeat ;
+}
+P{
+    text-transform: uppercase;
+}
+b{
+    color: green;
+}
